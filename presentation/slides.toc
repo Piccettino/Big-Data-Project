@@ -1,0 +1,7 @@
+\beamer@endinputifotherversion {3.36pt}
+\select@language {british}
+\beamer@sectionintoc {1}{Data Exploration}{2}{0}{1}
+\beamer@sectionintoc {2}{Towards Time Series}{8}{0}{2}
+\beamer@subsectionintoc {2}{1}{Preprocessing}{10}{0}{2}
+\beamer@subsectionintoc {2}{2}{Modeling and Validation}{12}{0}{2}
+\beamer@sectionintoc {3}{References}{16}{0}{3}
