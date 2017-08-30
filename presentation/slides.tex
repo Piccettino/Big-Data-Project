@@ -103,10 +103,11 @@
 \end{frame}
 
 \begin{frame}{Finding the most sampled pollutant...}
-	In order to find the most sampled and problematic determinand (pollutant), the FPGrowth algorithm has been applied to the transaction grouped by sampling point and date.
-	
-	This frequent item algorithm yields \textbf{Ammonia(N)} with a count of \textbf{17108} (which is the 60\%).
-	
+	\begin{itemize}
+		\item In order to find the most sampled and problematic determinand (pollutant), the FPGrowth algorithm has been applied to the transaction grouped by sampling point and date.
+		
+		\item The frequent item algorithm yields \textbf{Ammonia(N)} with a count of \textbf{17108}, which is the 60\%.
+	\end{itemize}
 \end{frame}
 
 \begin{frame}{...and its reason!}
@@ -143,7 +144,7 @@
 			font= \tiny,
 			set color list={blue!50!cyan,green!60!lime,orange!50!red,red!80!black},
 			back arrow disabled=true}
-		\smartdiagram[flow diagram: horizontal]{Outliers removal, Daily Resample, Removing seasonal component, Transformation (Box-Cox test), Scale between 0 and 1}
+		\smartdiagram[flow diagram: horizontal]{Outliers removal, Daily Resample, Removing seasonal component, Transformation (with Box-Cox test), Scale between 0 and 1}
 	\end{center}
 \end{frame}
 

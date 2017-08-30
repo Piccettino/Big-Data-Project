@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2017.8.25)  27 AUG 2017 18:10
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2017.8.25)  31 AUG 2017 00:15
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1377,14 +1377,14 @@ nverted-to.pdf>
 (epstopdf)                    size: 68622 bytes
 (epstopdf)             Command: <repstopdf --outfile=./Imgs/Politecnico-di-Mila
 no-3-m8qw-eps-converted-to.pdf ./Imgs/Politecnico-di-Milano-3-m8qw.eps>
-(epstopdf)             \includegraphics on input line 110.
+(epstopdf)             \includegraphics on input line 111.
 Package epstopdf Info: Output file is already uptodate.
 File: ./Imgs/Politecnico-di-Milano-3-m8qw-eps-converted-to.pdf Graphic file (ty
 pe pdf)
 
 <use ./Imgs/Politecnico-di-Milano-3-m8qw-eps-converted-to.pdf>
 Package pdftex.def Info: ./Imgs/Politecnico-di-Milano-3-m8qw-eps-converted-to.p
-df used on input line 110.
+df used on input line 111.
 (pdftex.def)             Requested size: 37.42055pt x 45.52458pt.
  [6
 
@@ -1398,14 +1398,14 @@ nverted-to.pdf>
 (epstopdf)                    size: 68622 bytes
 (epstopdf)             Command: <repstopdf --outfile=./Imgs/Politecnico-di-Mila
 no-3-m8qw-eps-converted-to.pdf ./Imgs/Politecnico-di-Milano-3-m8qw.eps>
-(epstopdf)             \includegraphics on input line 128.
+(epstopdf)             \includegraphics on input line 129.
 Package epstopdf Info: Output file is already uptodate.
 File: ./Imgs/Politecnico-di-Milano-3-m8qw-eps-converted-to.pdf Graphic file (ty
 pe pdf)
 
 <use ./Imgs/Politecnico-di-Milano-3-m8qw-eps-converted-to.pdf>
 Package pdftex.def Info: ./Imgs/Politecnico-di-Milano-3-m8qw-eps-converted-to.p
-df used on input line 128.
+df used on input line 129.
 (pdftex.def)             Requested size: 37.42055pt x 45.52458pt.
  [7
 
@@ -1420,13 +1420,13 @@ nverted-to.pdf>
 (epstopdf)                    size: 68622 bytes
 (epstopdf)             Command: <repstopdf --outfile=./Imgs/Politecnico-di-Mila
 no-3-m8qw-eps-converted-to.pdf ./Imgs/Politecnico-di-Milano-3-m8qw.eps>
-(epstopdf)             \includegraphics on input line 130.
+(epstopdf)             \includegraphics on input line 131.
 Package epstopdf Info: Output file is already uptodate.
 File: ./Imgs/Politecnico-di-Milano-3-m8qw-eps-converted-to.pdf Graphic file (ty
 pe pdf)
  <use ./Imgs/Politecnico-di-Milano-3-m8qw-eps-converted-to.pdf>
 Package pdftex.def Info: ./Imgs/Politecnico-di-Milano-3-m8qw-eps-converted-to.p
-df used on input line 130.
+df used on input line 131.
 (pdftex.def)             Requested size: 37.42055pt x 45.52458pt.
 
 [8
@@ -1435,7 +1435,7 @@ df used on input line 130.
 File: ./Imgs/original_ts.png Graphic file (type png)
 
 <use ./Imgs/original_ts.png>
-Package pdftex.def Info: ./Imgs/original_ts.png used on input line 134.
+Package pdftex.def Info: ./Imgs/original_ts.png used on input line 135.
 (pdftex.def)             Requested size: 342.2953pt x 146.31606pt.
 Package epstopdf Info: Source file: <./Imgs/Politecnico-di-Milano-3-m8qw.eps>
 (epstopdf)                    date: 2017-08-25 20:08:38
@@ -1446,14 +1446,14 @@ nverted-to.pdf>
 (epstopdf)                    size: 68622 bytes
 (epstopdf)             Command: <repstopdf --outfile=./Imgs/Politecnico-di-Mila
 no-3-m8qw-eps-converted-to.pdf ./Imgs/Politecnico-di-Milano-3-m8qw.eps>
-(epstopdf)             \includegraphics on input line 134.
+(epstopdf)             \includegraphics on input line 135.
 Package epstopdf Info: Output file is already uptodate.
 File: ./Imgs/Politecnico-di-Milano-3-m8qw-eps-converted-to.pdf Graphic file (ty
 pe pdf)
 
 <use ./Imgs/Politecnico-di-Milano-3-m8qw-eps-converted-to.pdf>
 Package pdftex.def Info: ./Imgs/Politecnico-di-Milano-3-m8qw-eps-converted-to.p
-df used on input line 134.
+df used on input line 135.
 (pdftex.def)             Requested size: 37.42055pt x 45.52458pt.
  [9
 
@@ -1467,14 +1467,14 @@ nverted-to.pdf>
 (epstopdf)                    size: 68622 bytes
 (epstopdf)             Command: <repstopdf --outfile=./Imgs/Politecnico-di-Mila
 no-3-m8qw-eps-converted-to.pdf ./Imgs/Politecnico-di-Milano-3-m8qw.eps>
-(epstopdf)             \includegraphics on input line 136.
+(epstopdf)             \includegraphics on input line 137.
 Package epstopdf Info: Output file is already uptodate.
 File: ./Imgs/Politecnico-di-Milano-3-m8qw-eps-converted-to.pdf Graphic file (ty
 pe pdf)
 
 <use ./Imgs/Politecnico-di-Milano-3-m8qw-eps-converted-to.pdf>
 Package pdftex.def Info: ./Imgs/Politecnico-di-Milano-3-m8qw-eps-converted-to.p
-df used on input line 136.
+df used on input line 137.
 (pdftex.def)             Requested size: 37.42055pt x 45.52458pt.
  [10
 
@@ -1488,14 +1488,14 @@ nverted-to.pdf>
 (epstopdf)                    size: 68622 bytes
 (epstopdf)             Command: <repstopdf --outfile=./Imgs/Politecnico-di-Mila
 no-3-m8qw-eps-converted-to.pdf ./Imgs/Politecnico-di-Milano-3-m8qw.eps>
-(epstopdf)             \includegraphics on input line 148.
+(epstopdf)             \includegraphics on input line 149.
 Package epstopdf Info: Output file is already uptodate.
 File: ./Imgs/Politecnico-di-Milano-3-m8qw-eps-converted-to.pdf Graphic file (ty
 pe pdf)
 
 <use ./Imgs/Politecnico-di-Milano-3-m8qw-eps-converted-to.pdf>
 Package pdftex.def Info: ./Imgs/Politecnico-di-Milano-3-m8qw-eps-converted-to.p
-df used on input line 148.
+df used on input line 149.
 (pdftex.def)             Requested size: 37.42055pt x 45.52458pt.
  [11
 
@@ -1510,13 +1510,13 @@ nverted-to.pdf>
 (epstopdf)                    size: 68622 bytes
 (epstopdf)             Command: <repstopdf --outfile=./Imgs/Politecnico-di-Mila
 no-3-m8qw-eps-converted-to.pdf ./Imgs/Politecnico-di-Milano-3-m8qw.eps>
-(epstopdf)             \includegraphics on input line 150.
+(epstopdf)             \includegraphics on input line 151.
 Package epstopdf Info: Output file is already uptodate.
 File: ./Imgs/Politecnico-di-Milano-3-m8qw-eps-converted-to.pdf Graphic file (ty
 pe pdf)
  <use ./Imgs/Politecnico-di-Milano-3-m8qw-eps-converted-to.pdf>
 Package pdftex.def Info: ./Imgs/Politecnico-di-Milano-3-m8qw-eps-converted-to.p
-df used on input line 150.
+df used on input line 151.
 (pdftex.def)             Requested size: 37.42055pt x 45.52458pt.
 
 [12
@@ -1531,13 +1531,13 @@ nverted-to.pdf>
 (epstopdf)                    size: 68622 bytes
 (epstopdf)             Command: <repstopdf --outfile=./Imgs/Politecnico-di-Mila
 no-3-m8qw-eps-converted-to.pdf ./Imgs/Politecnico-di-Milano-3-m8qw.eps>
-(epstopdf)             \includegraphics on input line 163.
+(epstopdf)             \includegraphics on input line 164.
 Package epstopdf Info: Output file is already uptodate.
 File: ./Imgs/Politecnico-di-Milano-3-m8qw-eps-converted-to.pdf Graphic file (ty
 pe pdf)
  <use ./Imgs/Politecnico-di-Milano-3-m8qw-eps-converted-to.pdf>
 Package pdftex.def Info: ./Imgs/Politecnico-di-Milano-3-m8qw-eps-converted-to.p
-df used on input line 163.
+df used on input line 164.
 (pdftex.def)             Requested size: 37.42055pt x 45.52458pt.
  [13
 
@@ -1546,7 +1546,7 @@ df used on input line 163.
 File: ./Imgs/whiteness.png Graphic file (type png)
 
 <use ./Imgs/whiteness.png>
-Package pdftex.def Info: ./Imgs/whiteness.png used on input line 170.
+Package pdftex.def Info: ./Imgs/whiteness.png used on input line 171.
 (pdftex.def)             Requested size: 342.2953pt x 141.32181pt.
 Package epstopdf Info: Source file: <./Imgs/Politecnico-di-Milano-3-m8qw.eps>
 (epstopdf)                    date: 2017-08-25 20:08:38
@@ -1557,14 +1557,14 @@ nverted-to.pdf>
 (epstopdf)                    size: 68622 bytes
 (epstopdf)             Command: <repstopdf --outfile=./Imgs/Politecnico-di-Mila
 no-3-m8qw-eps-converted-to.pdf ./Imgs/Politecnico-di-Milano-3-m8qw.eps>
-(epstopdf)             \includegraphics on input line 170.
+(epstopdf)             \includegraphics on input line 171.
 Package epstopdf Info: Output file is already uptodate.
 File: ./Imgs/Politecnico-di-Milano-3-m8qw-eps-converted-to.pdf Graphic file (ty
 pe pdf)
 
 <use ./Imgs/Politecnico-di-Milano-3-m8qw-eps-converted-to.pdf>
 Package pdftex.def Info: ./Imgs/Politecnico-di-Milano-3-m8qw-eps-converted-to.p
-df used on input line 170.
+df used on input line 171.
 (pdftex.def)             Requested size: 37.42055pt x 45.52458pt.
  [14
 
@@ -1573,7 +1573,7 @@ t>
 File: ./Imgs/validation.png Graphic file (type png)
 
 <use ./Imgs/validation.png>
-Package pdftex.def Info: ./Imgs/validation.png used on input line 177.
+Package pdftex.def Info: ./Imgs/validation.png used on input line 178.
 (pdftex.def)             Requested size: 342.2953pt x 151.1719pt.
 Package epstopdf Info: Source file: <./Imgs/Politecnico-di-Milano-3-m8qw.eps>
 (epstopdf)                    date: 2017-08-25 20:08:38
@@ -1584,14 +1584,14 @@ nverted-to.pdf>
 (epstopdf)                    size: 68622 bytes
 (epstopdf)             Command: <repstopdf --outfile=./Imgs/Politecnico-di-Mila
 no-3-m8qw-eps-converted-to.pdf ./Imgs/Politecnico-di-Milano-3-m8qw.eps>
-(epstopdf)             \includegraphics on input line 177.
+(epstopdf)             \includegraphics on input line 178.
 Package epstopdf Info: Output file is already uptodate.
 File: ./Imgs/Politecnico-di-Milano-3-m8qw-eps-converted-to.pdf Graphic file (ty
 pe pdf)
 
 <use ./Imgs/Politecnico-di-Milano-3-m8qw-eps-converted-to.pdf>
 Package pdftex.def Info: ./Imgs/Politecnico-di-Milano-3-m8qw-eps-converted-to.p
-df used on input line 177.
+df used on input line 178.
 (pdftex.def)             Requested size: 37.42055pt x 45.52458pt.
  [15
 
@@ -1605,14 +1605,14 @@ nverted-to.pdf>
 (epstopdf)                    size: 68622 bytes
 (epstopdf)             Command: <repstopdf --outfile=./Imgs/Politecnico-di-Mila
 no-3-m8qw-eps-converted-to.pdf ./Imgs/Politecnico-di-Milano-3-m8qw.eps>
-(epstopdf)             \includegraphics on input line 179.
+(epstopdf)             \includegraphics on input line 180.
 Package epstopdf Info: Output file is already uptodate.
 File: ./Imgs/Politecnico-di-Milano-3-m8qw-eps-converted-to.pdf Graphic file (ty
 pe pdf)
 
 <use ./Imgs/Politecnico-di-Milano-3-m8qw-eps-converted-to.pdf>
 Package pdftex.def Info: ./Imgs/Politecnico-di-Milano-3-m8qw-eps-converted-to.p
-df used on input line 179.
+df used on input line 180.
 (pdftex.def)             Requested size: 37.42055pt x 45.52458pt.
  [16
 
@@ -1626,14 +1626,14 @@ nverted-to.pdf>
 (epstopdf)                    size: 68622 bytes
 (epstopdf)             Command: <repstopdf --outfile=./Imgs/Politecnico-di-Mila
 no-3-m8qw-eps-converted-to.pdf ./Imgs/Politecnico-di-Milano-3-m8qw.eps>
-(epstopdf)             \includegraphics on input line 190.
+(epstopdf)             \includegraphics on input line 191.
 Package epstopdf Info: Output file is already uptodate.
 File: ./Imgs/Politecnico-di-Milano-3-m8qw-eps-converted-to.pdf Graphic file (ty
 pe pdf)
 
 <use ./Imgs/Politecnico-di-Milano-3-m8qw-eps-converted-to.pdf>
 Package pdftex.def Info: ./Imgs/Politecnico-di-Milano-3-m8qw-eps-converted-to.p
-df used on input line 190.
+df used on input line 191.
 (pdftex.def)             Requested size: 37.42055pt x 45.52458pt.
  [17
 
@@ -1647,12 +1647,12 @@ df used on input line 190.
 \tf@snm=\write9
 \openout9 = `slides.snm'.
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 192.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 192.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 193.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 193.
 
 (./slides.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 192.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 192.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 193.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 193.
 Package rerunfilecheck Info: File `slides.out' has not changed.
 (rerunfilecheck)             Checksum: 3C00D58DA2870EF9725DC2B92453F955;286.
 
@@ -1660,12 +1660,12 @@ Package rerunfilecheck Info: File `slides.out' has not changed.
 LaTeX Font Warning: Size substitutions with differences
 (Font)              up to 1.0pt have occurred.
 
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 192.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 193.
  ) 
 Here is how much of TeX's memory you used:
  29584 strings out of 493029
  593265 string characters out of 6136234
- 673042 words of memory out of 5000000
+ 673194 words of memory out of 5000000
  32503 multiletter control sequences out of 15000+600000
  10989 words of font info for 40 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
@@ -1675,7 +1675,7 @@ r/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmss10.pfb></usr/shar
 e/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmss12.pfb></usr/share/texl
 ive/texmf-dist/fonts/type1/public/amsfonts/cm/cmss8.pfb></usr/share/texlive/tex
 mf-dist/fonts/type1/public/amsfonts/cm/cmssbx10.pfb>
-Output written on slides.pdf (17 pages, 238841 bytes).
+Output written on slides.pdf (17 pages, 238835 bytes).
 PDF statistics:
  640 PDF objects out of 1000 (max. 8388607)
  549 compressed objects within 6 object streams
