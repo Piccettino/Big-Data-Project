@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2017.8.25)  31 AUG 2017 00:15
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2017.8.25)  1 SEP 2017 11:31
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1431,7 +1431,7 @@ df used on input line 131.
 
 [8
 
-] <./Imgs/original_ts.png, id=328, 899.36pt x 384.43625pt>
+] <./Imgs/original_ts.png, id=329, 899.36pt x 384.43625pt>
 File: ./Imgs/original_ts.png Graphic file (type png)
 
 <use ./Imgs/original_ts.png>
@@ -1542,7 +1542,7 @@ df used on input line 164.
  [13
 
 ]
-<./Imgs/whiteness.png, id=491, 904.37875pt x 373.395pt>
+<./Imgs/whiteness.png, id=492, 904.37875pt x 373.395pt>
 File: ./Imgs/whiteness.png Graphic file (type png)
 
 <use ./Imgs/whiteness.png>
@@ -1568,7 +1568,7 @@ df used on input line 171.
 (pdftex.def)             Requested size: 37.42055pt x 45.52458pt.
  [14
 
- <./Imgs/whiteness.png>] <./Imgs/validation.png, id=521, 911.405pt x 402.50375p
+ <./Imgs/whiteness.png>] <./Imgs/validation.png, id=522, 911.405pt x 402.50375p
 t>
 File: ./Imgs/validation.png Graphic file (type png)
 
@@ -1665,7 +1665,7 @@ Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 193.
 Here is how much of TeX's memory you used:
  29584 strings out of 493029
  593265 string characters out of 6136234
- 673194 words of memory out of 5000000
+ 673646 words of memory out of 5000000
  32503 multiletter control sequences out of 15000+600000
  10989 words of font info for 40 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
@@ -1675,10 +1675,10 @@ r/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmss10.pfb></usr/shar
 e/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmss12.pfb></usr/share/texl
 ive/texmf-dist/fonts/type1/public/amsfonts/cm/cmss8.pfb></usr/share/texlive/tex
 mf-dist/fonts/type1/public/amsfonts/cm/cmssbx10.pfb>
-Output written on slides.pdf (17 pages, 238835 bytes).
+Output written on slides.pdf (17 pages, 240482 bytes).
 PDF statistics:
- 640 PDF objects out of 1000 (max. 8388607)
- 549 compressed objects within 6 object streams
+ 645 PDF objects out of 1000 (max. 8388607)
+ 554 compressed objects within 6 object streams
  40 named destinations out of 1000 (max. 500000)
  385 words of extra memory for PDF output out of 10000 (max. 10000000)
 

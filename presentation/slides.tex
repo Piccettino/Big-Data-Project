@@ -104,9 +104,9 @@
 
 \begin{frame}{Finding the most sampled pollutant...}
 	\begin{itemize}
-		\item In order to find the most sampled and problematic determinand (pollutant), the FPGrowth algorithm has been applied to the transaction grouped by sampling point and date.
+		\item In order to find the most sampled and problematic determinand (pollutant), the \href{https://en.wikibooks.org/wiki/Data_Mining_Algorithms_In_R/Frequent_Pattern_Mining/The_FP-Growth_Algorithm}{\textbf{FPGrowth algorithm}} is applied to the transactions grouped by sampling point and date.
 		
-		\item The frequent item algorithm yields \textbf{Ammonia(N)} with a count of \textbf{17108}, which is the 60\%.
+		\item This frequent item algorithm yields \textbf{Ammonia(N)} as the most sapled, with a count of \textbf{17108} which is the 60\% of the transactions.
 	\end{itemize}
 \end{frame}
 
@@ -118,14 +118,14 @@
 	\end{itemize}
 	Which is the \textbf{95\%} (16209/17108) of the times!
 	
-	Especially the presence in the river surface water is meaningful since the Ammonia traces within water may come from:
+	Especially the presence in the \textbf{river surface water} is meaningful since the Ammonia traces within water may come from:
 	\begin{itemize}
 		\item fertilizers
 		\item food processing waste
 		\item Industrial wastewater as non-conventional pollutant
 	\end{itemize}
 	
-	The last two reasons can be both the reason since it implies the presence of industries, whereas the first cause would mean a high concentration  \\ of ammonia in the undeground water.
+	The last two reasons can be both the reason since it implies the presence of industries, whereas the first cause would mean a high concentration  \\ of ammonia in the \textbf{undeground} water!.
 \end{frame}
 	
 \section{Towards Time Series}
@@ -144,19 +144,19 @@
 			font= \tiny,
 			set color list={blue!50!cyan,green!60!lime,orange!50!red,red!80!black},
 			back arrow disabled=true}
-		\smartdiagram[flow diagram: horizontal]{Outliers removal, Daily Resample, Removing seasonal component, Transformation (with Box-Cox test), Scale between 0 and 1}
+		\smartdiagram[flow diagram: horizontal]{Outliers removal, Daily Resample and Imputation, Removing seasonal component, Transformation (with Box-Cox test), Scale between 0 and 1}
 	\end{center}
 \end{frame}
 
 \subsection{Modeling and Validation}
 
 \begin{frame}{ARMA Modeling}
-	The ARMA models comes from statistics background.
+	The \textbf{ARMA} model comes from statistics background.
 	\begin{itemize}
 		\item the AR is the \textbf{Autoregressive} part that takes in account of the previous steps equals to the AR's degree
 		\item the MA is the \textbf{Moving Average} part that averages the stochastic side of the process equals to the MA's degree
 	\end{itemize}
-	The ARMA(2,1) model is chosen by crossing two approaches:
+	Here, the \textbf{ARMA(2,1)} model is chosen by crossing two approaches:
 	\begin{itemize}
 		\item \textbf{AIC} (Akaike Information Criterion) and \textbf{BIC} (Bayesian Information Criterion) which are objective methods to select the degree that gives a good fit to the data preventing overfitting. This method computes gives the degree that enables the model to be enough complex to keep all the data's expressiveness
 		\item \textbf{PACF} and \textbf{ACF}, the Partial AutoCorrelation Function and the AutoCorrelation Function are good indicators for finding out respectively the AR and MA degrees through a "elbow analysis".   
@@ -181,12 +181,12 @@
 
 \begin{frame}{Guidelines}
 	\begin{itemize}
-		\item Spark and Pyspark doc
-		\item Spark understanding and basic knowledge from Big Data part held by prof. Ardagna during the Computing Infrustructures course
-		\item Statsmodels python module references http://www.statsmodels.org/stable/index.html
+		\item \href{https://spark.apache.org/docs/2.1.0/api/python/}{\textbf{Spark and Pyspark doc}}
+		\item Spark understanding and basic knowledge from Big Data part held by prof. Ardagna during the Computing Infrustructures course @ Polimi
+		\item \href{http://www.statsmodels.org/stable/index.html}{\textbf{Statsmodels}}: python module and its doc 
 		\item Notes from Model Identification and Data Analysis (MIDA/IMAD) course @ Polimi by prof. Bittanti and Savaresi
-		\item Statistical forecasting: notes on regression and time series analysis by Robert Nau (Fuqua School of Business, Duke University) http://people.duke.edu/~rnau/411home.htm
-		\item Cross Validated: Stack Overflow for stats guys https://stats.stackexchange.com/
+		\item \href{http://people.duke.edu/~rnau/411home.htm}{\textbf{Statistical forecasting}}: notes on regression and time series analysis by Robert Nau (Fuqua School of Business, Duke University) 
+		\item \href{https://stats.stackexchange.com/}{\textbf{Cross Validated}}: Stack Overflow for stats guys in trouble
 	\end{itemize}
 \end{frame}
 
